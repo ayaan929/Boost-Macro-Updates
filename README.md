@@ -15,11 +15,17 @@ Boost-Macro-Updates provides the **best Boost Macro in the game, totally free**!
 1. **Download the Macro:**
    - Download the ZIP directly: Click the green "Code" button → "Download ZIP"
 
-2. **Extract the Files:**
+1. **Download AHKv2:**
+   - Download the correct AHK version (v2) at: https://www.autohotkey.com/
+
+3. **Extract the Files:**
    - You'll find two archive files in the root directory: `main.zip` and `alt.zip`
    - Choose the appropriate version based on what you need and extract it:
      - **main.zip**: The Macro Used On Your Main Account During Boosts
      - **alt.zip**: The macro to use on your alts during boosts
+
+4. **Run the .ahk file:**
+   - Run the ahk file of the macro you have downloaded
 
 ## 🎮 Usage
 
@@ -30,7 +36,7 @@ Boost-Macro-Updates provides the **best Boost Macro in the game, totally free**!
    - Modify the configuration files to customize what you need
 
 3. **Start Boosting:**
-   - Activate the macro using your configured hotkey
+   - Start the macro using your configured hotkey
    - Watch your boost numbers improve
 
 ## 🤝 Contributing
